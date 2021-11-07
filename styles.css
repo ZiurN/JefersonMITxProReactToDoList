@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: lightgray;
+}
+form {
+	display: flex;
+	padding: 10px;
+	width: 100%;
+	margin: auto;
+	justify-content: center;
+}
+form .input {
+	width:50rem;
+}
+ul li {
+	list-style-type: none;
+	list-style-position: outside;
+}
+.container {
+	background-color: #557AB5;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+.btn {
+	color: #74A5F5;
+	padding: 0.5rem;
+	background-color: #192436;
+}
+.list-item {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin: 1rem;
+	padding: 0.5rem;
+	border-radius: 0.3rem;
+	color: #192436;
+	background-color: #74A5F5;
+}
