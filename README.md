@@ -9,7 +9,7 @@ With this app, you can add new tasks pending to be done, and whed it have been d
 #### InSite
 
 Just go to this link:
-[here](https://github.com/ZiurN/JefersonMITxPROEyeMovement/blob/main/LICENSE)
+[https://ziurn.github.io/JefersonMITxProReactToDoList/](https://ziurn.github.io/JefersonMITxProReactToDoList/)
 
 #### Download this repository.
 Just clone or download this repository, and open the <code>index.html</code> file on your favorite web browser.
